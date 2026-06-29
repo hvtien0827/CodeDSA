@@ -1,5 +1,7 @@
 Link problem : https://marisaoj.com/problem/11
+
 Giới hạn thời gian: 1000 ms
+
 Giới hạn bộ nhớ: 256 MB
 
 Cho số nguyên a. Hãy xác định xem a có phải số chính phương không?
