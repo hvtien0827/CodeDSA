@@ -16,7 +16,7 @@ Cho số nguyên a. Hãy xác định xem a có phải số chính phương k
 
 ### Điều kiện
 
-- (1≤a≤$10^{18}$).
+- ($1 \le a \le 10^{18}$).
 
 ### Ví dụ
 
