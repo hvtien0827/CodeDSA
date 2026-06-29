@@ -1,4 +1,4 @@
 # CodeDSA
-Problems mình đã giải trên các nền tảng luyện ADSA khác nhau
+Problems mình đã giải trên các nền tảng luyện DSA khác nhau
 
 #### - [MarisaOJ](https://marisaoj.com/)
