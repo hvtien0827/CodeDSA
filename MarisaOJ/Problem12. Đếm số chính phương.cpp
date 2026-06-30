@@ -1,3 +1,4 @@
+//Link problem : https://marisaoj.com/problem/12
 #include <bits/stdc++.h>
 using namespace std;
 #define fixenter cin.ignore(numeric_limits<streamsize>::max(),'\n')
@@ -9,7 +10,6 @@ int main() {
     ios_base::sync_with_stdio(false);
     cin.tie(nullptr);
     ull a; cin>>a;
-    //Số lượng số chính phương dương <= n = phần nguyên của căn n
     cout<<(ll)sqrt(a);
     return 0;
 }
